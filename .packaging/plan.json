@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc -b && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "joozio/dungeon-of-opus",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "4db3bb30059489c82a2d454c3c4120a7ceb66616"
+}
